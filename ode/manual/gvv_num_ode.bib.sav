@@ -1,0 +1,22 @@
+% Encoding: UTF-8
+
+@Electronic{taylor,
+  url = {http://mathfaculty.fullerton.edu/mathews/n2003/taylorde/TaylorDEMod/Links/TaylorDEMod\_lnk\_2.html},
+}
+
+@Electronic{midpoint,
+  author = {Wikipedia},
+  url    = {https://en.wikipedia.org/wiki/Midpoint\_method},
+}
+
+@Electronic{runge,
+  author = {Wikipedia},
+  url    = {https://en.wikipedia.org/wiki/Runge\%E2\%80\%93Kutta\_methods},
+}
+
+@Electronic{euler,
+  author = {Wikipedia},
+  url    = {https://en.wikipedia.org/wiki/Euler\_method},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
